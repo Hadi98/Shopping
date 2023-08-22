@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "user1",
+      "password": "password1"
+    },
+    {
+      "name": "user2",
+      "password": "password2"
+    }
+  ],
+  "products": [
+    {
+      "name": "Product A",
+      "color": "Red",
+      "price": 10.99
+    },
+    {
+      "name": "Product B",
+      "color": "Blue",
+      "price": 15.49
+    },
+    {
+      "name": "Product C",
+      "color": "Green",
+      "price": 8.99
+    }
+  ]
+}
